@@ -43,7 +43,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mvmce&show_icons=true&theme=tokyonight" alt="Estatísticas Manuel" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvmce&theme=tokyonight" alt="Estatísticas Manuel" />
 </p>
 
 ---
